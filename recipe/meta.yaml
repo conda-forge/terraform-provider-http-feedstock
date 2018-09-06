@@ -11,11 +11,11 @@ package:
 source:
   url: https://github.com/terraform-providers/{{ name }}/archive/v{{ version }}.tar.gz  # [not win]
   fn: {{ name }}-{{ version }}.tar.gz  # [not win]
-  sha256: {{ 39c5b7490d7cc855f083e7d2cc230fb0f79c9f1302c18a432bf4ce185a36ed32 }}  # [not win]
+  sha256: 39c5b7490d7cc855f083e7d2cc230fb0f79c9f1302c18a432bf4ce185a36ed32  # [not win]
 
   url: https://releases.hashicorp.com/{{ name }}/{{ version }}/{{ name }}_{{ version }}_windows_amd64.zip  # [win64]
   fn: {{ name }}-{{ version }}.zip  # [win]
-  sha256: {{ c4541938b2b91b8ea35834e2628948420c31a81f037650b034ba4bfb6d6bc45e }}  # [win64]
+  sha256: c4541938b2b91b8ea35834e2628948420c31a81f037650b034ba4bfb6d6bc45e  # [win64]
 
 build:
   number: 1000
