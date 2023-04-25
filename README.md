@@ -1,11 +1,11 @@
-About terraform-provider-http
-=============================
+About terraform-provider-http-feedstock
+=======================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/terraform-provider-http-feedstock/blob/main/LICENSE.txt)
 
 Home: https://www.terraform.io
 
 Package license: MPL-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/terraform-provider-http-feedstock/blob/main/LICENSE.txt)
 
 Summary: The Terraform HTTP provider
 
